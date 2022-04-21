@@ -1,0 +1,62 @@
+body{
+      font-family: 'Roboto', sans-serif;
+      background-color: greenyellow;
+  }
+  
+
+  .bg-light{
+      background-color: #e2c809!important;
+  }
+  
+  .navbar-brand{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: larger;
+      font-size: 2.5rem;
+      font-style: italic;
+
+      color: #c61515!important;
+  }
+  
+  .nav-link{
+      color: #0fcbc1!important;
+      font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+  .table-light:hover{
+      cursor: default;
+  }
+  
+  .table-info:hover{
+      cursor: default;
+  }
+  
+  .table-danger:hover{
+      cursor: default;
+  }
+  
+  .nav-link:hover{
+      background-color: #e98112;
+  }
+
+  
+  .my-info{
+      padding: 2rem 5rem;
+  }
+  
+  .my-info:hover{
+      cursor: default;
+  }
+  
+  .btn-info{
+      padding: 1rem 1.2rem;
+      background-color: #09ba3e!important;
+      border-radius: 15px;
+      color: rgb(78, 10, 203)!important;
+      margin-left: 5px;
+      padding: 0.75rem;
+      transition: all 0.5s;
+  }
+  
+  .btn-info:hover{
+      background-color: #b314c5!important;
+  }
